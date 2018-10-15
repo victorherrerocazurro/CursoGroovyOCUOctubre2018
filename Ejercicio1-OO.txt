@@ -1,0 +1,17 @@
+Ejercicio Orientacion Objetos:
+
+- Tenemos requisito para una aplicacion, que consiste en procesar
+una informacion de un cliente nuevo, validando los campos introducidos,
+almacenandolo en una BD, notificando al cliente su registro.
+
+Donde el cliente tiene la siguiente info
+
+mail
+nombre
+edad
+
+Debiendo cumplir 
+
+mail obligatorio
+nombre obligatorio
+edad obligatorio y mayor que 18
