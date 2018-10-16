@@ -37,7 +37,7 @@ def instanciaDeClaseInternaAnonima = new OnClickListener(){
     }
 }
 
-Closure funcion = (target) <- {
+Closure funcion = {target ->
     //Esta es mi logica
 } as OnClickListener
 
