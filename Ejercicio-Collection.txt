@@ -1,0 +1,10 @@
+Borrar los n primeros elementos de una lista
+
+Cosas a emplear
+
+* Recursividad
+* Funciones de colecciones
+
+Cosas a no emplear
+
+* restar y remove

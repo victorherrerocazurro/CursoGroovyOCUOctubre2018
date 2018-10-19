@@ -1,0 +1,16 @@
+Basandose en la aplicacion del primer dia, definir la capa de
+persistencia.
+
+Aplicar el script a los objetos definidos en un fichero JSON y 
+cada registro procesado, añadirlos a un fichero xml, donde 
+ademas de incluir la informacion original, se ha de añadir la 
+fecha de procesamiento.
+
+<cliente fecha="">
+	<nombre/>
+	<edad/>
+	<mail/>
+</cliente>
+
+Opcion para los listos, que el almacenamiento en el XML sea de 
+registros ordenados por edad.
